@@ -30,4 +30,4 @@ This modular approach ensures the data remains reliable, traceable, and ready fo
 
 
 ###  OUTPUT
-[IMAGE_OF_YOUR_TASK1_TREND_GRAPH_HERE]
+<img width="1116" height="322" alt="Image" src="https://github.com/user-attachments/assets/025c46a2-c353-41f2-8108-3268e58c8714" />
